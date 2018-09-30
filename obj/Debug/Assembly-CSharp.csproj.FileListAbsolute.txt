@@ -1,0 +1,2 @@
+/Users/carlspidla/Desktop/Career Ready/Script Tester App/Script tester 3/Script tester/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/carlspidla/Desktop/Career Ready/Script Tester App/Script tester 3/Script tester/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
