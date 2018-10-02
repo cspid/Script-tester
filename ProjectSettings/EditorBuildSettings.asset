@@ -8,9 +8,9 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: Assets/Scenes/Choose Scene - Syd.unity
-    guid: c468fe6667d344f54b9a777c4003f89c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Syd Day 6.unity
     guid: 661e6e3a4352e4fa283d839b8e548d99
@@ -23,13 +23,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Choose Character.unity
     guid: e09390b703676431e89b5d4a43531f3e
-  - enabled: 1
-    path: Assets/Scenes/Choose Scene - Bard.unity
-    guid: 347a83fdb78b843e4982a45227876b4b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Choose Scene - Stein.unity
     guid: 0a8b28b159d1f4311b63bdd1879a4347
   - enabled: 1
+    path: Assets/Scenes/Choose Scene - Bard.unity
+    guid: 3cdf1c7d263b84bf4befb8489acde682
+  - enabled: 1
+    path: Assets/Scenes/Choose Scene - Syd.unity
+    guid: 8239b1640a66b44aa877421509240a56
+  - enabled: 1
     path: Assets/Scenes/Choose Scene - Williams.unity
-    guid: bf4befa83a98445d98e6c107b9fb7781
+    guid: cab323a75f95e40cebfaa06d2fb0b3c0
+  - enabled: 1
+    path: Assets/Scenes/Syd Day 6 (Oct 2).unity
+    guid: 5d87bedc5677b4909a39d001cdfaa482
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}

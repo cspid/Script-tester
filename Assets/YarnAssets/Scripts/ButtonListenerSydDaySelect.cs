@@ -44,6 +44,11 @@ public class ButtonListenerSydDaySelect : MonoBehaviour
         //Output this to console when the Button is clicked
         SceneManager.LoadScene("Syd Day 6");
     }
+	public void Day6_Oct2()
+    {
+        //Output this to console when the Button is clicked
+		SceneManager.LoadScene("Syd Day 6 (Oct 2)");
+    }
     public void Day7()
     {
         //Output this to console when the Button is clicked
