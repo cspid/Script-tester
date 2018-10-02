@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{F408FFB5-CDBC-3355-2AAF-84FA4D451637}</ProjectGuid>
+    <ProjectGuid>{3A410AAB-349A-4D19-1C17-96A0EBEC05A5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -63,17 +63,17 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\YarnSpinner\Editor\YarnSpinnerEditorWindow.cs" />
     <Compile Include="Assets\Scripts\YarnSpinner\Editor\YarnSpinnerTests.cs" />
+    <Reference Include="UnityEditor.StandardEvents">
+      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester Repo/Tester/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester App/Script tester 3/Script tester/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester Repo/Tester/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester App/Script tester 3/Script tester/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester Repo/Tester/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester App/Script tester 3/Script tester/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester App/Script tester 3/Script tester/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester Repo/Tester/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/2018.2.0f2.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -322,13 +322,13 @@
       <HintPath>/Applications/Unity/2018.2.0f2.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Antlr4.Runtime.Standard">
-      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester App/Script tester 3/Script tester/Assets/Scripts/YarnSpinner/Antlr4.Runtime.Standard.dll</HintPath>
+      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester Repo/Tester/Assets/Scripts/YarnSpinner/Antlr4.Runtime.Standard.dll</HintPath>
     </Reference>
     <Reference Include="CsvHelper">
-      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester App/Script tester 3/Script tester/Assets/Scripts/YarnSpinner/CsvHelper.dll</HintPath>
+      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester Repo/Tester/Assets/Scripts/YarnSpinner/CsvHelper.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester App/Script tester 3/Script tester/Assets/Scripts/YarnSpinner/Newtonsoft.Json.dll</HintPath>
+      <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester Repo/Tester/Assets/Scripts/YarnSpinner/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>/Users/carlspidla/Library/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
@@ -384,7 +384,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{0C6928E3-7BF6-4A5B-FE10-39A578D73EF5}</Project>
+      <Project>{4D8D6104-992A-5F36-C9EC-BA45C2673035}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
