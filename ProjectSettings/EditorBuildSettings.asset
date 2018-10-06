@@ -33,6 +33,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Choose Scene - Bard.unity
     guid: 3cdf1c7d263b84bf4befb8489acde682
   - enabled: 1
+    path: Assets/Scenes/Choose Scene - OctDemo.unity
+    guid: a5c158651c34942c5af76cf3776522d8
+  - enabled: 1
+    path: Assets/Scenes/OctDemo Day 1.unity
+    guid: f5675b4f904a94bf8a68094b43fc0b00
+  - enabled: 1
+    path: Assets/Scenes/OctDemo Day 2.unity
+    guid: 46a8a5ef725e840eaa6062cef439feb7
+  - enabled: 1
+    path: Assets/Scenes/OctDemo Day 3.unity
+    guid: f37b08f9976d648f5a7452de43739dc5
+  - enabled: 1
     path: Assets/Scenes/Choose Scene - Syd.unity
     guid: 8239b1640a66b44aa877421509240a56
   - enabled: 1

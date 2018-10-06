@@ -22,16 +22,21 @@ public class ButtonListenerCharSelect : MonoBehaviour
     public void Stein()
     {
         //Output this to console when the Button is clicked
-        SceneManager.LoadScene("Choose Scene - Syd");
+        SceneManager.LoadScene("Choose Scene - Stein");
     }
     public void Syd()
     {
         //Output this to console when the Button is clicked
-        SceneManager.LoadScene("Choose Scene - Stein");
+        SceneManager.LoadScene("Choose Scene - Syd");
     }
     public void Bard()
     {
         //Output this to console when the Button is clicked
         SceneManager.LoadScene("Choose Scene - Bard");
+    }
+    public void OctDemo()
+    {
+        //Output this to console when the Button is clicked
+        SceneManager.LoadScene("Choose Scene - OctDemo");
     }
 }

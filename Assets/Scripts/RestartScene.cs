@@ -11,7 +11,7 @@ public class RestartScene : MonoBehaviour {
 	void Update () {
         if (Input.GetKey(KeyCode.R))
         {
-            SceneManager.LoadScene("Choose Scene");
+            SceneManager.LoadScene("Choose Character");
         }
         if (Input.GetKey(KeyCode.Q))
         {
