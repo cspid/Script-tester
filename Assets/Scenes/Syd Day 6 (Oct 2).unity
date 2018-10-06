@@ -1648,8 +1648,8 @@ MonoBehaviour:
   - name: Char4LastOnly
     value: Bard
     type: 1
-  - name: 
-    value: 
+  - name: Character3First
+    value: Syd
     type: 0
   debugTextView: {fileID: 0}
 --- !u!114 &1538461311

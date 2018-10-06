@@ -61,22 +61,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CharacterController.cs" />
-    <Compile Include="Assets\Scripts\ClipboardEnable.cs" />
-    <Compile Include="Assets\Scripts\EnableReview.cs" />
-    <Compile Include="Assets\Scripts\FaceManager.cs" />
-    <Compile Include="Assets\Scripts\FadeObjectInOut.cs" />
-    <Compile Include="Assets\Scripts\FadeOnStart.cs" />
-    <Compile Include="Assets\Scripts\FlipRight.cs" />
-    <Compile Include="Assets\Scripts\FoodPickup.cs" />
-    <Compile Include="Assets\Scripts\LeftArrow.cs" />
-    <Compile Include="Assets\Scripts\NPCHandler.cs" />
-    <Compile Include="Assets\Scripts\PageSwitch.cs" />
-    <Compile Include="Assets\Scripts\PlayerAnimationController.cs" />
-    <Compile Include="Assets\Scripts\RestartScene.cs" />
-    <Compile Include="Assets\Scripts\Review.cs" />
-    <Compile Include="Assets\Scripts\ReviewDemoAug.cs" />
-    <Compile Include="Assets\Scripts\triggerText.cs" />
+    <Compile Include="Assets\Scripts\Misc\CharacterController.cs" />
+    <Compile Include="Assets\Scripts\Misc\ClipboardEnable.cs" />
+    <Compile Include="Assets\Scripts\Misc\EnableReview.cs" />
+    <Compile Include="Assets\Scripts\Misc\FaceManager.cs" />
+    <Compile Include="Assets\Scripts\Misc\FadeObjectInOut.cs" />
+    <Compile Include="Assets\Scripts\Misc\FadeOnStart.cs" />
+    <Compile Include="Assets\Scripts\Misc\FlipRight.cs" />
+    <Compile Include="Assets\Scripts\Misc\FoodPickup.cs" />
+    <Compile Include="Assets\Scripts\Misc\LeftArrow.cs" />
+    <Compile Include="Assets\Scripts\Misc\NPCHandler.cs" />
+    <Compile Include="Assets\Scripts\Misc\PageSwitch.cs" />
+    <Compile Include="Assets\Scripts\Misc\PlayerAnimationController.cs" />
+    <Compile Include="Assets\Scripts\Misc\RestartScene.cs" />
+    <Compile Include="Assets\Scripts\Misc\Review.cs" />
+    <Compile Include="Assets\Scripts\Misc\ReviewDemoAug.cs" />
+    <Compile Include="Assets\Scripts\Misc\triggerText.cs" />
     <Compile Include="Assets\Scripts\YarnSpinner\Analyser.cs" />
     <Compile Include="Assets\Scripts\YarnSpinner\AntlrCompiler.cs" />
     <Compile Include="Assets\Scripts\YarnSpinner\CameraFollow.cs" />
