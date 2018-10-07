@@ -112,6 +112,7 @@
     <None Include="Assets\YarnAssets\Aug 28 Demo\Mr_Williams_Door.yarn.txt" />
     <None Include="Assets\YarnAssets\Scripts\Syd\Syd_Day_6.yarn.txt" />
     <None Include="Assets\YarnAssets\Scripts\Oct Demo\Oct_Demo_Day_2.yarn.txt" />
+    <None Include="Assets\YarnAssets\Scripts\Syd\Syd_Day_6_Oct7.yarn.txt" />
     <None Include="Assets\YarnAssets\Scripts\Oct Demo\Oct_Demo_Day_1.yarn.txt" />
     <None Include="Assets\YarnAssets\Scripts\Syd\Syd_Day_6_Oct2.yarn.txt" />
     <None Include="Assets\YarnAssets\Scripts\Stein\Stein_Day_8.yarn.txt" />
