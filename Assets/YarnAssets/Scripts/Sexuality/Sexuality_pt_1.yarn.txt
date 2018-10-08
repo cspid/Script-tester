@@ -1,0 +1,20 @@
+title: Sexuality1_Start
+tags: 
+colorID: 0
+position: 277,-41
+---
+[$Player]: [$Char4First]? Are you in there? It’s me, [$Player]…
+Skip:
+[$Char4Last]: Yes, come in!
+Skip:
+[$Player]: (tentatively, slowly) Ok, I’m coming in… Just opening the door… 
+Skip:
+[$Char4Last]: You can come in.
+Skip:
+[$Player]: **(enters)** So! Marie, I just want to apologize for the other day, barging in here like that. I know this is your home and I want to respect your privacy. I should have got your consent before entering.
+Skip:
+[$Char4Last]: Mistakes happen. I wasn’t upset with you walking in on Fred and I… If anything it’s been your behaviour since then that I find a bit annoying.
+
+[[What do you mean? What’s wrong with my behaviour?|DEFENSIVE]]
+[[Joanne: Oh! I’m sorry, how… What do you mean? Did I say something wrong?|APOLOGETIC]]
+===

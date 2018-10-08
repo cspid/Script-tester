@@ -104,6 +104,7 @@
     <Compile Include="Assets\Scripts\YarnSpinner\YarnSpinnerParserListener.cs" />
     <Compile Include="Assets\Scripts\YarnSpinner\YarnSpinnerParserVisitor.cs" />
     <Compile Include="Assets\YarnAssets\Scripts\ButtonListener.cs" />
+    <Compile Include="Assets\YarnAssets\Scripts\ButtonListenerBardDaySelect.cs" />
     <Compile Include="Assets\YarnAssets\Scripts\ButtonListenerCharSelect.cs" />
     <Compile Include="Assets\YarnAssets\Scripts\ButtonListenerOctDemoDaySelect.cs" />
     <Compile Include="Assets\YarnAssets\Scripts\ButtonListenerSteinDaySelect.cs" />
@@ -115,9 +116,11 @@
     <None Include="Assets\YarnAssets\Scripts\Syd\Syd_Day_6_Oct7.yarn.txt" />
     <None Include="Assets\YarnAssets\Scripts\Oct Demo\Oct_Demo_Day_1.yarn.txt" />
     <None Include="Assets\YarnAssets\Scripts\Syd\Syd_Day_6_Oct2.yarn.txt" />
+    <None Include="Assets\YarnAssets\Scripts\Sexuality\Sexuality_pt_1.yarn.txt" />
     <None Include="Assets\YarnAssets\Scripts\Stein\Stein_Day_8.yarn.txt" />
     <None Include="Assets\YarnAssets\Scripts\Oct Demo\Oct_Demo_Day_3.yarn.txt" />
     <None Include="Assets\YarnAssets\Scripts\Syd\Syd_Day_7.yarn.txt" />
+    <None Include="Assets\YarnAssets\Scripts\Sexuality\Sexuality_pt_2.yarn.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/carlspidla/Desktop/Career Ready/Script Tester Repo/Tester/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

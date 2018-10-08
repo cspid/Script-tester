@@ -15,6 +15,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Syd Day 6.unity
     guid: 661e6e3a4352e4fa283d839b8e548d99
   - enabled: 1
+    path: Assets/Scenes/Sexuality pt 1.unity
+    guid: 87b9da3b183804d47a90602e1b842aab
+  - enabled: 1
+    path: Assets/Scenes/Sexuality pt 2.unity
+    guid: 037ed44ce56244f81942e3898e16faff
+  - enabled: 1
+    path: Assets/Scenes/Syd Day 6 (Oct 7).unity
+    guid: 1d4e773af844d4f8e9e3aadb809e0a28
+  - enabled: 1
     path: Assets/Scenes/Syd Day 7.unity
     guid: ecf1834b9ef06422d91a493f8fcc3ecc
   - enabled: 1
