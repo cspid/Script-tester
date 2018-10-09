@@ -139,8 +139,8 @@ namespace Yarn.Unity.Example {
             int i = 0;
             foreach (var optionString in optionsCollection.options) {
                 optionButtons [i].gameObject.SetActive (true);
-                optionButtons [i].GetComponentInChildren<Text> ().text = optionString;
-                i++;
+				optionButtons[i].GetComponentInChildren<Text>().text = CheckVars(optionString);
+				i++;
             }
 
             // Record that we're using it

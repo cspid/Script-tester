@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Syd Day 6 (Oct 7).unity
+- path: Assets/Scenes/OctDemo Day 1.unity
   isLoaded: 1
   isActive: 1
