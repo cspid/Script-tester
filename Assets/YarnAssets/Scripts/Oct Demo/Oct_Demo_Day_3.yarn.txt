@@ -1,9 +1,10 @@
 title: Start_OctDemo_Day_3
 tags: 
 colorID: 0
-position: 1225,962
+position: 1222,962
 ---
-//All the residents are having lunchtime. [$Char1Last] is wandering around the hallway, looing for an exit. The PS approaches him.
+*All the residents are having lunch. [$Char1Last] is wandering around the hallway, looking for an exit. [$PlayerName] approaches him.*
+Skip:
 [$PlayerName]: Good afternoon, [$Char1Last].
 Skip:
 [$Char1Last]: Hello.
@@ -12,7 +13,6 @@ Skip:
 Skip:
 [$Char1Last]: Sorry, no time to talk. Late for work.
 Skip:
-//[$Char1Last]
 [$PlayerName]: What's your job?
 Skip:
 [$Char1Last]: I'm a chef!
@@ -32,11 +32,11 @@ Skip:
 title: Leave_Williams_Day_3
 tags: 
 colorID: 0
-position: 866,1272
+position: 863,1274
 ---
 [$PlayerName]: You can't leave!
 Skip:
-[$Char1Last]: You can't stopme!
+[$Char1Last]: You can't stop me!
 Skip:
 <<IsThought = True>>
 Do not ignore [$Char1Last]'s issue. Instead, find the underlying meaning and offer redirection.
@@ -47,13 +47,13 @@ Do not ignore [$Char1Last]'s issue. Instead, find the underlying meaning and off
 title: Job_Williams_Day_3
 tags: 
 colorID: 0
-position: 1550,1289
+position: 1544,1291
 ---
 [$PlayerName]: [$Char1First], let's go have tea in the lounge. You can tell me all about your job.
 Skip:
 [$Char1Last]: I don't have time to talk! Late for work.
 Skip:
-//[Char1Last] walks over to the door.
+*[$Char1Last] walks over to the door.*
 Skip:
 [$Char1Last]: Why isn't it opening?
 Skip:
@@ -64,7 +64,6 @@ Skip:
 <<IsThought = True>>
 Raising your voice will agitate the resident. Instead, calmly try to understand why he wants to leave, or explore other areas related to his job.
 <<IsThought = False>>
-Skip:
 [$PlayerName]: I'm sorry, I didn't mean to yell.
 
 [[Ask_Williams_Day_3]]
@@ -72,31 +71,33 @@ Skip:
 title: Ask_Williams_Day_3
 tags: 
 colorID: 0
-position: 1228,1293
+position: 1228,1297
 ---
 [$PlayerName]: *Pause* [$Char1Last]?
 Skip:
 [$Char1Last]: Yes?
 Skip:
-[$PlayerName]: What's the special onthe menu today?
+[$PlayerName]: What's the special on the menu today?
 Skip:
-[$Char1Last]: My famous sheherd's pie!
+[$Char1Last]: My famous shepherd's pie!
 Skip:
 [$PlayerName]: What a coincidence! I tried making sheperd's pie many times. It's my grandmother's favorite. Mine just never turn out well. What's your secret?
 Skip:
 [$Char1Last]: I'll tell you, but I can only talk for a little while.
 Skip:
 [$PlayerName]: Thanks, [$Char1Last]. It won't take long.
-//The PS takes [Char1Last] down the hall
+Skip:
+*[$PlayerName] takes [$Char1Last] down the hall.*
 
 [[Lounge_Williams_Day_3]]
 ===
 title: Lounge_Williams_Day_3
 tags: 
 colorID: 0
-position: 1217,1703
+position: 1214,1703
 ---
-//[Char1Last] and the PS are sitting in the lounge.
+*[$Char1Last] and [$PlayerName] are sitting in the lounge.*
+Skip:
 [$PlayerName]: So, tell me why you love cooking so much? All I can make is bad shepherd's pie and burnt toast.
 Skip:
 [$Char1Last]: Oh, dear. Well, I got my love of cooking from my grandma. I loved her food so much. I learned how to cook from watching her.
@@ -112,7 +113,7 @@ Skip:
 title: Behaviour_Williams_Day_3
 tags: 
 colorID: 0
-position: 982,1989
+position: 979,1989
 ---
 [$PlayerName]: I see, you've had behaviour problems as a child...
 Skip:
@@ -147,7 +148,7 @@ Skip:
 title: Canada_Williams_Day_3
 tags: 
 colorID: 0
-position: 1207,2334
+position: 1207,2336
 ---
 [$Char1Last]: It was World War II. Britain was under attack by the enemy. The men were called to the trenches, the women to the factories. As for the children, they put us on ships headed to Australia or Canada for our safety. Those were hard times.
 Skip:
@@ -167,6 +168,7 @@ Skip:
 Skip:
 [$Char1Last]: I'd be happy to.
 Skip:
-//They walk toward the dining room.
+*They walk toward the dining room.*
+Skip:
 [$Char1Last]: How in the world do you burn toast?
 ===
