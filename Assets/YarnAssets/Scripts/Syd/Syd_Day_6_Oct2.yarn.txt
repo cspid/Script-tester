@@ -10,9 +10,9 @@ skip:
 //With a glum look
 [$Char3First]: Hey, [$PlayerName].
 
-[[How are you doing today, [Char3First]?|Curious_Syd_Day_6]]
-[[How are you doing today, [Char3First]? It's a nice day to go to bingo.|Smile_Syd_Day_6]]
-[[[Char3First], what would you like to wear today?|Clothes_Syd_Day_6]]
+[[How are you doing today, [$Char3First]?|Curious_Syd_Day_6]]
+[[How are you doing today, [$Char3First]? It's a nice day to go to bingo.|Smile_Syd_Day_6]]
+[[[$Char3First], what would you like to wear today?|Clothes_Syd_Day_6]]
 ===
 title: Curious_Syd_Day_6
 tags: 

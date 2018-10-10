@@ -1597,20 +1597,59 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   defaultVariables:
-  - name: 
-    value: 
-    type: 0
-  - name: 
-    value: 
-    type: 0
-  - name: 
-    value: 
-    type: 0
-  - name: 
-    value: 
-    type: 0
-  - name: 
-    value: 
+  - name: PlayerName
+    value: (Player)
+    type: 1
+  - name: PronounA
+    value: he
+    type: 1
+  - name: PronounB
+    value: her
+    type: 1
+  - name: PronounPos
+    value: his
+    type: 1
+  - name: NMName
+    value: Betty
+    type: 1
+  - name: Char1First
+    value: Arthur
+    type: 1
+  - name: Char1Last
+    value: Mr. Williams
+    type: 1
+  - name: Car1LastOnly
+    value: Williams
+    type: 1
+  - name: Char2First
+    value: Dana
+    type: 1
+  - name: Char2Last
+    value: Mrs Stein
+    type: 1
+  - name: Char2LastOnly
+    value: Stein
+    type: 1
+  - name: Char3First
+    value: Syd
+    type: 1
+  - name: Char3Last
+    value: Mr. Wojcik
+    type: 1
+  - name: Char3LastOnly
+    value: Wojcik
+    type: 1
+  - name: Char4First
+    value: Sue
+    type: 1
+  - name: Char4Last
+    value: Ms. Bard
+    type: 1
+  - name: Char4LastOnly
+    value: Bard
+    type: 1
+  - name: Character3First
+    value: Syd
     type: 0
   debugTextView: {fileID: 0}
 --- !u!114 &1538461311

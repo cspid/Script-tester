@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{EA4FA703-F4F8-14FB-B187-0C4658CCBE94}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/YarnSpinner/ExampleDialogueUI.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/YarnAssets/Scripts/Syd/Syd_Day_6_Oct7.yarn.txt">
     <Files>
-      <File FileName="Assets/YarnAssets/Scripts/ButtonListenerSydDaySelect.cs" Line="46" Column="6" />
+      <File FileName="Assets/YarnAssets/Scripts/ButtonListenerSydDaySelect.cs" Line="55" Column="53" />
       <File FileName="Assets/Scripts/YarnSpinner/ExampleVariableStorage.cs" Line="1" Column="1" />
-      <File FileName="Assets/YarnAssets/Scripts/Oct Demo/Oct_Demo_Day_1.yarn.txt" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/YarnSpinner/ExampleDialogueUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/YarnAssets/Scripts/Oct Demo/Oct_Demo_Day_1.yarn.txt" Line="7" Column="14" />
+      <File FileName="Assets/Scripts/YarnSpinner/ExampleDialogueUI.cs" Line="254" Column="55" />
+      <File FileName="Assets/YarnAssets/Scripts/Syd/Syd_Day_6_Oct2.yarn.txt" Line="15" Column="5" />
+      <File FileName="Assets/YarnAssets/Scripts/Syd/Syd_Day_6_Oct7.yarn.txt" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -102,7 +102,7 @@ Skip:
 [$PlayerName]: Anyways, I'll give you some space. Have a good day.
 Skip:
 //Player begins to leave the room
-[Char3First]: [$PlayerName], come back... That wasn't a particulary smart thing to say, but I know you meant well. 
+[$Char3First]: [$PlayerName], come back... That wasn't a particulary smart thing to say, but I know you meant well. 
 Skip:
 //Player goes back in and grabs a chair
 [$PlayerName]: I am really sorry, [$Char3First]. It sounds like this has really been wearing on you - I’m just here to listen.
